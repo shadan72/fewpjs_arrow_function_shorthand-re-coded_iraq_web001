@@ -6,3 +6,7 @@ const square=(num =>{
   return num ** num;
 })
 
+const add=(() =>
+
+
+)
